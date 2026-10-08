@@ -1,3 +1,7 @@
 hello devops
 I am learning devops
+<<<<<<< HEAD
 Master version
+=======
+Feature version
+>>>>>>> 137a6ad (new)
